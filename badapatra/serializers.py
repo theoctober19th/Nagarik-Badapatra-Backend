@@ -8,11 +8,21 @@ class RoomSerializer(serializers.ModelSerializer):
 
 
 class FloorSerializer(serializers.ModelSerializer):
+    room = RoomSerializer()
     class Meta:
-        model = models.Room
-        fields = '__all__'
+        model = models.Floor
+        fields = (
+            'id',
+            'floor',
+            'room',
+        )
 
 class BuildingSerializer(serializers.ModelSerializer):
+    floor =FloorSerializer()
     class Meta:
         model  = models.Building
-        fields = '__all__'
+        fields = (
+            'id',
+            'building',
+            'floor'
+        )
