@@ -25,7 +25,7 @@ SECRET_KEY = '#23+p1%03^5#gzxwmw-@uk%kte6@1u3*(lp*t^a)=8=te^a+*g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -94,7 +94,7 @@ WSGI_APPLICATION = 'Hackathon.wsgi.application'
 DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'iwcore',
+        'NAME': 'badapatra',
         'USER': 'sanjaya',
         'PASSWORD': '1997',
         'HOST': 'localhost',
