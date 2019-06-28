@@ -8,7 +8,7 @@ The repository for RESTful web service written in java is here: [Nagarik Badaptr
 
 
 ## About Nagarik Badapatra
-The idea for Nagarik Badaptra comes from the difficulties faced by Nepalese people in governmental offices. The solution we proposed seeks forward to digitize the information about the location, working days, contact information etc. about the governmental offices as well as the नागरिक बड़ापत्र which contains the information about what activities and services are provided by the office, their procedures, the required documents, estimated time delay, estimated cost, whom to contact for information, whom to register complaint t, and so on. We also propose that every government office provide their official notices via a digital notice board that our app contains.
+The idea for Nagarik Badaptra comes from the difficulties faced by Nepalese people in governmental offices. The solution we proposed seeks forward to digitize the information about the location, working days, contact information etc. about the governmental offices as well as the नागरिक बड़ापत्र which contains the information about what activities and services are provided by the office, their procedures, the required documents, estimated time delay, estimated cost, whom to contact for information, whom to register complaint, and so on. We also propose that every government office provide their official notices via a digital notice board that our app contains.
 
 The governmental offices that uses this technology will use the backend panel to create, update and delete the various information related to the office. Every office will have a unique office identifier, out of which a QR will be created and pasted in gates of the governmental offices.
 
