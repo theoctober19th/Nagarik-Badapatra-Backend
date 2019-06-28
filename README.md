@@ -1,4 +1,4 @@
-# Nagarik Badapatra Backend
+# Nagarik Badapatra (Backend)
 
 This project is part of a series of tasks performed during the HexCode Jatra (Hackathon) conducted by Himalayan College of Engineering in 26th and 27th of July 2019. I took part from team Smithereens with fellow geeks @kendraregmi and @SanjayaStha.
 
